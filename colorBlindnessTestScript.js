@@ -22,19 +22,19 @@ You will need to include the following in your html document:
         </div>
       </div>
     </body>
-    
+
 */
 
 
 function ToMainExperiment(){
   //add code to start your experiment
 }
-
 var testIndex = 0;
 var testNumbers = [1,2,4,6,8,9,11,13,14,15,16,17,18,20,22,23];
-var testResponses = [];
+var testResponses = new Array;
 
 function ShowColorBlindnessTestInstruc(){
+    $("#startscreen").hide();
     $("#colorBlindnessTestinstruc").html("<p>The following is a test for color blindness. You will be asked to view some images of number and enter the number that you see. Some of the images will have no descernible number visible -- in this case you should enter the number 0.<br><br> Press the Enter key to continue.");
     $("#colorBlindnessTestinstruc").show();
     $(document).bind('keypress.enter', function(e) {
@@ -60,6 +60,7 @@ function EnterResponse(){
         e.preventDefault();
         if(CheckNumber($('#response').val())){
           if($('#response').val()!= ""){
+            console.log(testResponses);
             testResponses.push($('#response').val());
             testIndex++;
             document.getElementById("response").value = "";
