@@ -1,0 +1,49 @@
+Plate 1 
+	Everyone should see number 12. 
+Plate 2
+	Normal view: 8
+	Red-green deficiency: 3 
+Plate 4
+	Normal view: 29
+	Red-green deficiency: 70 
+Plate 6
+	Normal view: 5
+	Red-green deficiency: 2 
+Plate 8
+	Normal view: 15
+	Red-green deficiency: 17 
+Plate 9
+	Normal view: 74
+	Red-green deficiency: 21 
+Plate 11
+	Normal view: 6
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 13
+	Normal view: 45
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 14
+	Normal view: 5
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 15
+	Normal view: 15
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 16
+	Normal view: 16
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 17
+	Normal view: 73
+	Red-green deficiency: most people don’t see anything or see something wrong. 
+Plate 18
+	Normal view: nothing
+	Red-green deficiency: 5 
+Plate 20
+	Normal view: nothing
+	Red-green deficiency: 45 
+Plate 22
+	Normal view: 26
+	Protanopia or protanomaly: 6
+	Deuteranopia or deuteranomaly: 2 
+Plate 23
+	Normal view: 42
+	Protanopia or protanomaly: 2
+	Deuteranopia or deuteranomaly: 4 
