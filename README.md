@@ -1,7 +1,7 @@
 # onlineTestForColorVision
 This is a self contained script that will run a test for color blindness.
 
-In your direcory you will need to have the files colorBlindnessTest.js and colorBlindness.css as well as the folder "IshiharaPlates" which contains the images used for the test. An answer key for these images can be found in the file "IshiharaAnswerKey.txt" located in the folder.
+In your direcory you will need to have the files colorBlindnessTest.js and colorBlindness.css as well as the folder "IshiharaPlates" which contains the images used for the test. An answer key for these images can be found in the file "IshiharaAnswerKey.txt" located in the folder. These images were taken from: https://www.challengetb.org/publications/tools/country/Ishihara_Tests.pdf 
 
 You will need to include the following in your html document:
 
