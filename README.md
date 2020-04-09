@@ -12,6 +12,7 @@ You will need to include the following in your html document:
     </head>
 
     <body>
+      <div id = "colorBlindnessTestinstruc"></div>
       <div id = "colorBlindnessTest">
         <div id = "colorBlindnessTestText">
         </div>
